@@ -1,0 +1,91 @@
+
+body{
+	background: #344a72;
+	font-family: 'Roboto',sans-serif;
+}
+.signup-box
+{
+	width: 360px;
+	height: 560px;
+	background: white;
+	margin: auto;
+	padding-top: 5px;
+	border-radius:5px;
+
+}
+h1
+{
+   text-align: center;
+   margin-top: 15px;
+ }
+ h4
+ {
+ 	text-align: center;
+
+ }
+ form{
+
+ 	width: 300px;
+ 	margin-left: 20px;
+ }
+ form lable
+ {
+ 	display: flex;
+ 	margin-top:10px;
+ 	font-size: 18px;
+
+ }
+input
+{
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border: 1px solid grey;
+	border-radius: 5px;
+	outline: none;
+}
+input[type="button"]
+{
+	width: 317px;
+	height: 35px;
+	margin-top: 20px;
+	border: none;
+	background: #49c1a2;
+	color: white;
+	font-size: 18px ;
+}
+p{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 15px ;
+}
+.ready
+{
+	text-align: center
+	font-size: 15px ;
+	color: white;
+	margin-top: -10px;
+}
+.ready a{
+	color: #49c1a2;
+}
+/* CSS FILE FOR LOGIN PAGE */
+
+.login
+{
+    width: 350px;
+	height: 360px;
+	background: white;
+	margin: auto;
+	padding-top: 5px;
+	border-radius:5px;
+
+}
+.already{
+	color: white;
+} 
+.already a
+{
+	color: #49c1a2;
+
+}
